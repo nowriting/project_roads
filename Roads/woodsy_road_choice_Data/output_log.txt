@@ -25,7 +25,7 @@ Platform assembly: C:\Users\Eliza\Documents\GitHub\project_roads\Roads\woodsy_ro
 Loading C:\Users\Eliza\Documents\GitHub\project_roads\Roads\woodsy_road_choice_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\Eliza\Documents\GitHub\project_roads\Roads\woodsy_road_choice_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\Eliza\Documents\GitHub\project_roads\Roads\woodsy_road_choice_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.447 seconds
+- Completed reload, in  0.229 seconds
 Platform assembly: C:\Users\Eliza\Documents\GitHub\project_roads\Roads\woodsy_road_choice_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\Eliza\Documents\GitHub\project_roads\Roads\woodsy_road_choice_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
@@ -33,6 +33,6 @@ desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Input initialized.
 <RI> Initialized touch support.
 WARNING: Shader Unsupported: 'Hidden/TerrainEngine/BillboardTree' - Pass '' has no vertex shader
-UnloadTime: 1.919311 ms
+UnloadTime: 63.120445 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: d94 -> priority: 1 
+  Thread -> id: 3704 -> priority: 1 
