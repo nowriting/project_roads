@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Standard Assets/Scenes/scene_town.unity
+- path: Assets/Standard Assets/Scenes/scene_australia.unity
   isLoaded: 1
   isActive: 1
