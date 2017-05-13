@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/My_Scenes/scene_high_rise.unity
+- path: Assets/Standard Assets/Scenes/scene_australia.unity
   isLoaded: 1
   isActive: 1
