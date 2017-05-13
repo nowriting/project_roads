@@ -21,11 +21,12 @@ public class choiceDoors : MonoBehaviour {
     private void OnTriggerEnter(Collider choiceDoors)
     {
         // Damn thing shows as Untagged. Even when it's tagged. Temp solution.
-        // Debug.Log("Trigger name: " + choiceDoors.tag);
+         Debug.Log("Trigger name: " + choiceDoors.tag);
+         Debug.Log("Game object name: " + choiceDoors.gameObject.name);
 
         // if (choiceDoors.tag == "test")
         // {
-            SceneManager.LoadScene(scene_australia);
+        SceneManager.LoadScene(scene_australia);
         // }
     }
 }
