@@ -26,6 +26,7 @@ ModelImporter:
     100036: steps2to3
     100038: steps3to4
     100040: steps4to5
+    100042: 2nd_floor_001
     400000: 1st_floor
     400002: 1st_walls
     400004: 1st_window
@@ -47,6 +48,7 @@ ModelImporter:
     400036: steps2to3
     400038: steps3to4
     400040: steps4to5
+    400042: 2nd_floor_001
     2300000: 1st_floor
     2300002: 1st_walls
     2300004: 1st_window
@@ -67,6 +69,7 @@ ModelImporter:
     2300034: steps2to3
     2300036: steps3to4
     2300038: steps4to5
+    2300040: 2nd_floor_001
     3300000: 1st_floor
     3300002: 1st_walls
     3300004: 1st_window
@@ -87,6 +90,7 @@ ModelImporter:
     3300034: steps2to3
     3300036: steps3to4
     3300038: steps4to5
+    3300040: 2nd_floor_001
     4300000: 5th_window
     4300002: 4th_window
     4300004: 3rd_window
@@ -107,6 +111,7 @@ ModelImporter:
     4300034: 3rd_walls
     4300036: 1st_walls
     4300038: step
+    4300040: 2nd_floor_001
     7400000: Default Take
     9500000: //RootNode
   materials:

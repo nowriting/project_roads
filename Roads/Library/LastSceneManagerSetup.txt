@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/My_Scenes/scene_high_rise.unity
+- path: Assets/My_Scenes/scene_trek.unity
   isLoaded: 1
   isActive: 1

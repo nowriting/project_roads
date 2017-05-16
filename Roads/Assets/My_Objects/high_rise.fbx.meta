@@ -28,6 +28,7 @@ ModelImporter:
     100040: steps2to3
     100042: steps3to4
     100044: steps4to5
+    100046: Hemi_1
     400000: 1st_floor
     400002: 1st_walls
     400004: 1st_window
@@ -51,6 +52,7 @@ ModelImporter:
     400040: steps2to3
     400042: steps3to4
     400044: steps4to5
+    400046: Hemi_1
     2300000: 1st_floor
     2300002: 1st_walls
     2300004: 1st_window
