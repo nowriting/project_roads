@@ -9,16 +9,6 @@ public class choiceDoor_temp1 : MonoBehaviour {
 
     public string scene_trek = "scene_trek";
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
-
     public void OnTriggerEnter(Collider choiceDoor_temp1)
     {
         SceneManager.LoadScene(scene_trek);
